@@ -9,4 +9,13 @@
 4. **Refer a Friend** - Get  off when a friend makes their first purchase.
 
 5. **Seasonal Discount** - 20% off on seasonal specialties.
+# Discount Plans
+
+- **CoffeeHut_Wallet**: Customers can accumulate loyalty points and use them for discounts on future purchases.
+- **Loyal User Profile**: Special discounts for loyal customers who frequently make purchases.
+
+## New Discounts
+
+- **CoffeeHut_Wallet**: 10% discount on all purchases for users paying with CoffeeHut_Wallet.
+- **Loyal User Profile**: Additional 5% discount for users with the 'loyal' profile.
 
